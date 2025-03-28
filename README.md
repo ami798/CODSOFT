@@ -9,10 +9,7 @@ Welcome to the CodeSoft Internship repository! This project contains my Level On
    - [Calculator](#calculator)
    - [Landing Page](#landing-page)
 3. [Installation](#installation)
-4. [Technologies Used](#technologies-used)
-5. [Screenshots](#screenshots)
-6. [Future Improvements](#future-improvements)
-7. [Contact](#contact)
+
 
 ---
 
