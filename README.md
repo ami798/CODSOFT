@@ -53,4 +53,4 @@ Follow these steps to run the projects locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/codesoft-internship.git
+   git clone https://github.com/ami798/CODSOFT.git
