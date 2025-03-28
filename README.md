@@ -28,7 +28,7 @@ This repository is part of my CodeSoft Internship tasks, designed to enhance my 
 
 ### Portfolio
 - Features a clean and modern design to showcase my projects, skills and contact information.
-- Built using **HTML**, **CSS** and **JavaScript**.
+- Built using **HTML**, **CSS** .
 - Includes sections for:
   - About Me
   - Skills
@@ -39,7 +39,7 @@ This repository is part of my CodeSoft Internship tasks, designed to enhance my 
 ### Calculator
 - A web-based calculator to perform basic arithmetic operations.
 - Simple and user-friendly interface.
-- Developed using **HTML**, **CSS**.
+- Developed using **HTML**, **CSS** and **Javascript**.
 
 ### Landing Page
 - A responsive landing page built for a fictional product/service.
