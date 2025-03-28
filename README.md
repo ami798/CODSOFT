@@ -1,6 +1,6 @@
 # CodeSoft Internship - Web Development Level One Tasks
 
-Welcome to the CodeSoft Internship repository! This project contains my Level One tasks for web development, including a **Portfolio**, a **Calculator**, and a **Landing Page**.
+Welcome to the CodeSoft Internship repository! This project contains my Level One tasks for web development, including a **Portfolio**, a **Calculator** and a **Landing Page**.
 
 ## Table of Contents
 1. [Overview](#overview)
@@ -27,8 +27,8 @@ This repository is part of my CodeSoft Internship tasks, designed to enhance my 
 ## Projects
 
 ### Portfolio
-- Features a clean and modern design to showcase my projects, skills, and contact information.
-- Built using **HTML**, **CSS**, and **JavaScript**.
+- Features a clean and modern design to showcase my projects, skills and contact information.
+- Built using **HTML**, **CSS** and **JavaScript**.
 - Includes sections for:
   - About Me
   - Skills
@@ -39,11 +39,11 @@ This repository is part of my CodeSoft Internship tasks, designed to enhance my 
 ### Calculator
 - A web-based calculator to perform basic arithmetic operations.
 - Simple and user-friendly interface.
-- Developed using **HTML**, **CSS**, and **JavaScript** for functionality.
+- Developed using **HTML**, **CSS**.
 
 ### Landing Page
 - A responsive landing page built for a fictional product/service.
-- Includes hero sections, call-to-action buttons, and an intuitive layout.
+- Includes hero sections, call-to-action buttons and an intuitive layout.
 - Focused on visual appeal and usability.
 
 ---
